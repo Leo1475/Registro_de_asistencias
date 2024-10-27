@@ -14,4 +14,4 @@ Proporciona una visualización mejorada de un calendario para que los alumnos in
 ### fpdf
 Crea un archivo .pdf con los datos registrados.
 # Acceso:
-Se puede revisar el archivo Alumnos Autorizados.txt pra encontrar los inicios de sesion
+Se puede revisar el archivo Alumnos autorizados.txt pra encontrar los inicios de sesion

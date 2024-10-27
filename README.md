@@ -13,3 +13,5 @@ Empleado para una mejor visualización previa de la base de datos.
 Proporciona una visualización mejorada de un calendario para que los alumnos interactúen.
 ### fpdf
 Crea un archivo .pdf con los datos registrados.
+# Acceso:
+Se puede revisar el archivo Alumnos Autorizados.txt pra encontrar los inicios de sesion
